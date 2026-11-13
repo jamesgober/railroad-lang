@@ -18,7 +18,7 @@
 
 <div align="left">
     <p>
-        <strong>railroad-lang</strong> turns grammar rules (sequences, choices, repetitions, optionals, labels) into railroad diagrams: a deterministic layout engine plus an SVG renderer that follows a supplied design-token theme. LexerSketch Studio's rule builder and the generated language docs use it.
+        <strong>railroad-lang</strong> turns grammar rules (sequences, choices, repetitions, optionals, labels) into railroad diagrams: a deterministic layout engine plus an SVG renderer that follows a supplied design-token theme. The editor tool's rule builder and the generated language docs use it.
     </p>
     <br>
     <hr>
