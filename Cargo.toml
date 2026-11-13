@@ -19,7 +19,7 @@ readme = "README.md"
 description = "Lays out grammar rules as railroad diagrams and renders them as SVG: the visual view of a language's syntax."
 
 # Keywords (5 max)
-keywords = ["railroad", "grammar", "diagram", "svg", "lexersketch"]
+keywords = ["railroad", "grammar", "diagram", "svg"]
 
 # Categories
 categories = ["visualization", "development-tools", "no-std"]
